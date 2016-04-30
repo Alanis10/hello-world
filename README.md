@@ -1,2 +1,5 @@
 # hello-world
-justs another repository
+
+Mi nombre es Ricardo Alanis.
+Estoy aprendiendo a usar GitHub.
+
